@@ -6,6 +6,7 @@ namespace LojaDeCamisas
         static void Main(string[] args)
 
         {
+
             // Criando a loja de camisas
             LojaDeCamisas loja = new LojaDeCamisas();
 
